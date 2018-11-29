@@ -41,5 +41,6 @@ public class Moteur {
 ////			manager.snmpRequest();
 //			Thread t = new Thread(manager);
 //			t.start();
+        System.out.println("couuuuucouuuu");
         }
 	}

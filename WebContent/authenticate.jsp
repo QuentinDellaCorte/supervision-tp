@@ -9,11 +9,11 @@
 <body>
 
 	<h1>Authentification</h1>
-	<form action="DashboardServet" method="post">
+	<form action="DashboardServet" method="POST">
 		<br> Login : <input type="text" name="login"> <br>
-		<br> Password : <input type="text" name="password"> <br>
+		<br> Password : <input type="password" name="password"> <br>
 		
-			<button type="button" value="Submit"> valider </button>
+			<input type="Submit" value="Valider"> 
 	</form>
 </body>
 </html>
