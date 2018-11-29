@@ -13,7 +13,7 @@
 		<br> Login : <input type="text" name="login"> <br>
 		<br> Password : <input type="text" name="password"> <br>
 		
-			<button type="button" "Submit"> valider</button>
+			<button type="button" value="Submit"> valider </button>
 	</form>
 </body>
 </html>
